@@ -3,10 +3,10 @@ Interview PrepKit
 HackerRank Interview Preparation Kit Exercises written in Python 3 (2018).
 
 - [ ] Arrays (5/5)
-  - [ ] 2D Array - DS
-  - [ ] Arrays: Left Rotation
-  - [ ] New Year Chaos
-  - [ ] Minimum Swaps 2
+  - [x] 2D Array - DS
+  - [x] Arrays: Left Rotation
+  - [x] New Year Chaos
+  - [x] Minimum Swaps 2
   - [ ] Array Manipulation
 - [ ] Dictionaries and Hashmaps (5/5)
   - [ ] Hash Tables: Ransom Note
